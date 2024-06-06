@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fahadrehman1001
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, PHP
+- 🌱 I’m currently learning HTML, CSS, JS, MERN
 - 💞️ I’m looking to collaborate on Web Tech Projects
-- 📫 How to reach me ...
+- 📫 How to reach me fahadrehman2801@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 

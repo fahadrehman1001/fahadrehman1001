@@ -1,8 +1,8 @@
 # Hi, I'm Fahad Rehman 👋
 
-🎓 **Computer Science Graduate**
-💻 Passionate about **Web Development, AI, and Data Science**
-📍 Exploring new technologies and building projects that solve real-world problems
+*🎓 **Computer Science Graduate**
+*💻 Passionate about **Web Development, AI, and Data Science**
+*📍 Exploring new technologies and building projects that solve real-world problems
 
 ---
 

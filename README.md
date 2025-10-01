@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @fahadrehman1001
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, MERN
-- 💞️ I’m looking to collaborate on Web Tech Projects
-- 📫 How to reach me fahadrehman2801@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+# Hi, I'm Fahad Rehman 👋
 
-<!---
-fahadrehman1001/fahadrehman1001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 **Computer Science Graduate**
+💻 Passionate about **Web Development, AI, and Data Science**
+📍 Exploring new technologies and building projects that solve real-world problems
+
+---
+
+## 🔧 Skills & Tools
+
+* **Languages:** Python, JavaScript, SQL
+* **Frameworks & Libraries:** React, Flask, TensorFlow
+* **Databases:** MySQL, PostgreSQL
+* **Other Tools:** Git, GitHub, VS Code
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React & Frontend Design
+* Machine Learning & Data Science
+* Cloud Deployment (Docker, AWS)
+
+---
+
+## 📊 GitHub Stats
+
+![Fahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=fahadrehman1001\&show_icons=true\&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadrehman1001\&layout=compact\&theme=default)
+
+---
+
+## 📫 Connect with Me
+
+* [LinkedIn](https://linkedin.com/in/fahad-rehman-563aab263/)
+
+---
+
+💡 *"Strive to write clean, efficient, and impactful code."*
+
+---

@@ -12,7 +12,7 @@ with CNNs to modelling and rendering 3D scenes in Blender. I'm aiming for roles 
 
 | Project | Description | Tech |
 |---|---|---|
-| [♟️ 3D Chess Set Replica](https://github.com/fahadrehman1001/chess-set-blender) · [🔄 View in 3D](https://skfb.ly/pPSnZ) | Exact low-poly replica of a reference chess set, with a Python script that automates the portfolio renders | Blender, Python (bpy), Sketchfab |
+| [♟️ 3D Chess Set Replica](https://github.com/fahadrehman1001/chess-set-blender) | Exact low-poly replica of a reference chess set, with a Python script that automates the portfolio renders | Blender, Python (bpy), Sketchfab |
 | 🩺 Skin Disease Detection System | AI web system that classifies skin diseases from dermatological images · published at IEEE SMART 2024 | Python, Flask, ML, Image Processing |
 | 📅 Event Organizer Website | Full-stack event platform with registration, scheduling and real-time updates | React, Node.js |
 
